@@ -1,4 +1,4 @@
-# Pure_Graph
+# dotGraph
 
 ## Setup:
   `pip3 install dotGrpah_Rhy`
